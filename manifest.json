@@ -1,0 +1,8 @@
+{
+  "name": "BlurX",
+  "version": "0.0.1",
+  "author": "JustKleo#7753",
+  "description": "Do you like the blur effects? If so, this theme will suit you.",
+  "license": "MIT",
+  "theme": "clients/blurx.css"
+}
